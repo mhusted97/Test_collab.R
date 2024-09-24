@@ -1,0 +1,2 @@
+#Kan det deles
+getwd()
